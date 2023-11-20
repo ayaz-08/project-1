@@ -1,0 +1,153 @@
+# project-1
+# this is my first project
+# author - ayaz
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ayaz.cv</title>
+  <link rel="stylesheet" href="ayz.css">
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Sofia&effect=neon|outline|emboss|shadow-multiple">
+</head>
+
+
+<body>
+
+  <p> <img src="my pic 2.jpg" alt="picture" class="image" width="500" height="500"></p>
+  <h1> MD AYAZUDDIN</h1>
+  <p style="text-align: center; font-size: 20px;">
+    <img src="call pic.png" alt="phone" width="35" height="35"> 7003556803 &nbsp&nbsp&nbsp
+    <img src="email.png" alt="email" width="35" height="35"> <a
+      href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank"> ayaz.cool11@gmail.com
+    </a>&nbsp&nbsp&nbsp
+    <img src="home pic.png" alt="address" width="35" height="35">south buxarah village road, howrah - 10
+    <br>
+  </p>
+
+  <table>
+    <th1>
+      <a href="https://www.facebook.com/ayz.vonda/" target="_blank"><img src="fb.png" alt="facebook" width="35"
+          height="35"></a>&nbsp&nbsp&nbsp&nbsp
+      <a href="https://www.linkedin.com/in/md-ayazuddin-a6b399147/" target="_blank"><img src="linkedin.png"
+          alt="linkedin" width="35" height="35"></a>&nbsp&nbsp&nbsp&nbsp
+      <a href="https://www.instagram.com/ayz_08/?next=%2F" target="_blank"> <img src="insta.jpg" alt="instagram"
+          width="35" height="35"></a>&nbsp&nbsp&nbsp&nbsp
+      <a href="https://twitter.com/ayz_vonda" target="_blank"><img src="twitter.jpg" alt="twitter" width="35"
+          height="35"></a>
+    </th1>
+  </table>
+
+  <hr>
+
+
+
+  <h4>Objective</h4>
+  <p>
+    To give my level best to the institution I work and to learn all the aspects of my job in an organisation.
+  </p>
+
+
+  <h4>Experience</h4>
+  <p>
+    <strong>Amazon</strong> <br>
+    working as a Quality Speacialt from Aug 2019 till present.
+  </p>
+
+
+
+
+  <h4>Qualification</h4>
+  <table>
+    <thead>
+      <tr>
+        <th>Year&#160&#160&#160&#160&#160&#160</th>
+        <th>Degree&#160&#160&#160&#160</th>
+        <th>Board/University</th>
+        <th>Organisation</th>
+        <th>Score</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2019&#160&#160&#160&#160&#160&#160</td>
+        <td>B.tech&#160&#160&#160&#160</td>
+        <td>MAKAUT</td>
+        <td>BBIT</td>
+        <td>7.5 DGPA</td>
+      </tr>
+      <tr>
+        <td>2015&#160&#160&#160&#160&#160&#160</td>
+        <td>class 12&#160&#160&#160&#160</td>
+        <td>ISC</td>
+        <td>MARIAS DAY SCHOOL</td>
+        <td>65.83%</td>
+      </tr>
+      <tr>
+        <td>2013&#160&#160&#160&#160&#160&#160</td>
+        <td>class 10&#160&#160&#160&#160</td>
+        <td>ICSE</td>
+        <td>LYCEUM ENGLISH MEDIUM SCHOOL</td>
+        <td>65.33%</td>
+      </tr>
+    </tbody>
+  </table>
+
+
+
+  <h4>Skills</h4>
+  <ul>
+    <li>html</li>
+    <li>CSS</li>
+    <li>java Script</li>
+    <li>java</li>
+    <li>phython</li>
+    <li>sql</li>
+    <li>DBMS</li>
+    <li>DSA</li>
+  </ul>
+
+
+
+  <h4>Language Known</h4>
+  <ul>
+    <li>English : Speaking, Reading, Writing</li>
+    <li>Hindi : Speaking, Reading, Writing</li>
+    <li>Bengoli : Speaking, Reading, Writing</li>
+    <li>Urdu : Speaking</li>
+  </ul>
+
+
+
+  <h4>Personal Details</h4>
+  <p>
+    &#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160&#160Name :- Md Ayazuddin <br>
+    Nationality :- Indian &#160&#160&#160<br>
+    &#160&#160&#160&#160&#160 Father's Name :- Md Reyazuddin <br>
+    Mother's Name :- Naaz Bano &#160&#160&#160<br>
+    &#160&#160&#160&#160&#160&#160&#160 &#160Date Of Birth :- 25th of July,1996 <br>
+    Marital Status :- Single &#160&#160&#160&#160&#160&#160&#160&#160<br>
+  </p>
+
+
+
+  <h4>Declaration</h4>
+  <p>I hereby declare that all the information given above are true to the best of
+    my knowledge. <br> <br>
+  </p>
+
+  <p id="para1">~Md Ayazuddin</p>
+
+  <hr>
+  <hr>
+  <br>
+
+
+</body>
+
+</html>
